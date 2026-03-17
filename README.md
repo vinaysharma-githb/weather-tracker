@@ -21,6 +21,6 @@ Humidity
 
 Wind speed
 
-Clean and simple CLI output
+Clean and simple  output
 
 Efficient handling of multiple API calls
